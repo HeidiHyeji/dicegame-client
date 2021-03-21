@@ -1,11 +1,13 @@
 # dicegame-client
 ## It's a simple DiceGame using Java SWING.🌱
+### Below is server repo.
+🔗https://github.com/HeidiHyeji/dicegame-server.git
 
 ### 1. Sequence Diagram(Design Skech)  
 ![그림1](https://user-images.githubusercontent.com/22677083/111907544-37755d80-8a99-11eb-9869-6c3e7b837d3d.jpg)
 
-### 2. Game Flow  
-- Server(Left) & Client(Right)  
+### 2. Game Flow 
+- 🎲Server(Left) & Client(Right)  
 
 ![noname04](https://user-images.githubusercontent.com/22677083/111907702-ddc16300-8a99-11eb-9e7b-7a58d7713f93.png)
 ![그림2](https://user-images.githubusercontent.com/22677083/111907815-558f8d80-8a9a-11eb-95a7-5ad27660058e.png)
